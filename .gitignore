@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.pem
+*.key
+secrets/
+.env
+.env.local
+*.ovpn
+*.conf.bak
